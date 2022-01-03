@@ -1,0 +1,1 @@
+[ "files.txt", "assimilate.js", "cascadeScript.js", "deploy.js", "get-servers.js", "mapToFile.js", "price-server.js", "qol.js", "rm-servers.js", "single-deploy.js", "spider.ns", "beginning.js", "contract-solver.js", "generic-hack.js", "installGitburner.js", "monitor.js", "purchase-server-Xgb.script", "rankOne.js", "shutdown.js", "spider.js", "utils.js" ]
